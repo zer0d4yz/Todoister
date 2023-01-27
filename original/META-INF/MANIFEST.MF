@@ -1,0 +1,249 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: eaXst1nPRlMo5d42mxZSf2BDi0Y=
+
+Name: assets/flutter_assets/AssetManifest.json
+SHA1-Digest: X7uuv5mncgWM3th9YeDXQqfj+w4=
+
+Name: assets/flutter_assets/FontManifest.json
+SHA1-Digest: 8a0a1J7ZcFqtJlj0ny7CAetSpFU=
+
+Name: assets/flutter_assets/NOTICES
+SHA1-Digest: tqqQebNrtQ1F7waSwaeaQQlFf9Q=
+
+Name: assets/flutter_assets/assets/fonts/BarlowSemiCondensed-Black.ttf
+SHA1-Digest: rFjf27na3FgmanvwUoZVPPcbChc=
+
+Name: assets/flutter_assets/assets/fonts/BarlowSemiCondensed-Bold.ttf
+SHA1-Digest: wmzQ9lS85X7SFjJmrNg+lHvryd4=
+
+Name: assets/flutter_assets/assets/fonts/BarlowSemiCondensed-Italic.tt
+ f
+SHA1-Digest: dsddudwwG+HsYCkCQ/8dICl1Ru0=
+
+Name: assets/flutter_assets/assets/fonts/BarlowSemiCondensed-Light.ttf
+SHA1-Digest: YDU1HsP2GWe/X1F7AuML+pwW3kc=
+
+Name: assets/flutter_assets/assets/fonts/BarlowSemiCondensed-Medium.tt
+ f
+SHA1-Digest: gtiuk9dApx8FHOTPPEYZOqconmk=
+
+Name: assets/flutter_assets/assets/fonts/BarlowSemiCondensed-Regular.t
+ tf
+SHA1-Digest: T221wC7togIU5xadkuTgwMVhTRo=
+
+Name: assets/flutter_assets/assets/fonts/Raleway-Black.ttf
+SHA1-Digest: bXloPW8t7V/1ks7phSEBBACil+U=
+
+Name: assets/flutter_assets/assets/fonts/Raleway-Bold.ttf
+SHA1-Digest: SrOB7Nd1GSBv8+r4rXZTy4JbRJY=
+
+Name: assets/flutter_assets/assets/fonts/Raleway-Italic.ttf
+SHA1-Digest: AZ7BjXtQCFqtoM5fxCs28Zjn3Jo=
+
+Name: assets/flutter_assets/assets/fonts/Raleway-Light.ttf
+SHA1-Digest: 32vqKVbAokca73kLalRY8IIs2Jg=
+
+Name: assets/flutter_assets/assets/fonts/Raleway-Regular.ttf
+SHA1-Digest: oxxk2zk614EJkzs1xp4NRbo7YbY=
+
+Name: assets/flutter_assets/assets/images/mellow_logo.png
+SHA1-Digest: XitVxvV8WJa/hzM44ASGqWqWMr8=
+
+Name: assets/flutter_assets/fonts/MaterialIcons-Regular.otf
+SHA1-Digest: do2NBlvcBm1kfGrb715CARtM0ss=
+
+Name: assets/flutter_assets/packages/cupertino_icons/assets/CupertinoI
+ cons.ttf
+SHA1-Digest: P7bb/oR3EhwqCIH1M6LyTuBIWYU=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf
+SHA1-Digest: TneGhDkoD7Q01Gl8e5EScUBsgfM=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/Entypo.ttf
+SHA1-Digest: R4cKZ91Qhxdl95nKqX2ochnuR8U=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/EvilIcons.ttf
+SHA1-Digest: kdN36jz0dJCyVsLtCBcEp9q9rgw=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/Feather.ttf
+SHA1-Digest: CDrcpMD5jY+lG00P7FIZn3EqmFI=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/FontAwesome.t
+ tf
+SHA1-Digest: ibf6Xknpswnt555BynC1gFvB50Q=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/FontAwesome5_
+ Brands.ttf
+SHA1-Digest: abc988iZKpOFkkYGWiZ6Bb/Yz1Y=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/FontAwesome5_
+ Regular.ttf
+SHA1-Digest: oz9DOGNatiF73u1t3rAX0JS/WLA=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/FontAwesome5_
+ Solid.ttf
+SHA1-Digest: P3YEFmOPZFmt5yUbgP17wn1q0cY=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/Foundation.tt
+ f
+SHA1-Digest: SyvObHkkk6SlcWtv7C2+/olJLD8=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/Ionicons.ttf
+SHA1-Digest: UKCU1Wry9zi0kS3ZCMvZnw4UN5Y=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/MaterialCommu
+ nityIcons.ttf
+SHA1-Digest: WxBVeEH2v7H3tjXY5Fk7WnUJsNI=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/MaterialIcons
+ .ttf
+SHA1-Digest: /AXeMSNOAJD33cKM4bI69AJssdo=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/Octicons.ttf
+SHA1-Digest: o/QP7s8JqAqYbxLVfGRtK0Wa+so=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/SimpleLineIco
+ ns.ttf
+SHA1-Digest: n/uBpaEREuKS8swyPphIa61ZdZk=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/Zocial.ttf
+SHA1-Digest: C9pZx7zT05J94EfgkYdaRCi/0as=
+
+Name: assets/flutter_assets/packages/flutter_icons/fonts/weathericons.
+ ttf
+SHA1-Digest: mRbj28OZDjBzz1ostMLpWCc7dTI=
+
+Name: classes.dex
+SHA1-Digest: 9XeoA8yik03LAKjgPL0fZqnW8mU=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA1-Digest: BNKjaAG8N9m1TLFvNXuaHR9y8Eo=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA1-Digest: OhB+GKvj+kfdxJRhT0ndJbHJ4L8=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA1-Digest: +vIhfyors/P2TaFVQ0vfQnZK1ik=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA1-Digest: nAaCYLgP/HasFILGljnGXTzS36w=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA1-Digest: 1q9C2/Xioja6xCzasyrJNc7oors=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA1-Digest: cZsLFkzGQfMKVV+cwGttW95Sji4=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA1-Digest: l6f8dPGlWhhg7zs+V6/uTMWKa3I=
+
+Name: lib/armeabi-v7a/libapp.so
+SHA1-Digest: RDLe1fy4aCZfmIaK07CpMNRGXBo=
+
+Name: lib/armeabi-v7a/libflutter.so
+SHA1-Digest: KNc4zahIPUNExoLrzVzWOIo2sOQ=
+
+Name: res/drawable-v21/launch_background.xml
+SHA1-Digest: D9prT9e2Hmy5OQpcxiNp7leUYbE=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/drawable-xhdpi/notification_bg_low_normal.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-xhdpi/notification_bg_low_pressed.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-xhdpi/notification_bg_normal.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-xhdpi/notification_bg_normal_pressed.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-xhdpi/notify_panel_notification_icon_bg.png
+SHA1-Digest: w+oJv8/LNs4i0/GerK2jWfOYTtE=
+
+Name: res/drawable/launch_background.xml
+SHA1-Digest: 9IEanc84hAdUcWILmWLZVlL011E=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout/custom_dialog.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: EKDEx5zGdPdiZC+1l8637zdB9ws=
+
+Name: res/mipmap-hdpi/ic_launcher.png
+SHA1-Digest: ey86fHtp6VaZaDlXm7EM7Xos7mI=
+
+Name: res/mipmap-mdpi/ic_launcher.png
+SHA1-Digest: r9tpx1LKZgYHomqdBMgA0MaihiM=
+
+Name: res/mipmap-xhdpi/ic_launcher.png
+SHA1-Digest: Dc6XjXB5IO1oCpqJrxq7WAishpY=
+
+Name: res/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: /cxU6WB0TAq/hNXQ609fdFAagEA=
+
+Name: res/mipmap-xxxhdpi/ic_launcher.png
+SHA1-Digest: KCqfddbIdgOcq9pS/0H7gOiv27c=
+
+Name: res/xml/splits0.xml
+SHA1-Digest: dvaAmEb+QxE6iwvhtjWSFn4uWow=
+
+Name: resources.arsc
+SHA1-Digest: AiGY5zJQCzZHaCjEIX/7Ck7QWFU=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+
